@@ -10,6 +10,6 @@ Current functionalities include:
 * Play on strict mode, where if a wrong button is pressed, the game ends.
 * Win the game by getting a series of 20 steps correct.
 
-
+TRY IT OUT HERE: https://raktacos-simon.netlify.app
 
 CREDITS TO FREECODECAMP
